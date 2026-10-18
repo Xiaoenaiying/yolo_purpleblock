@@ -1,0 +1,3 @@
+此模型为yolo_learning\yolo_v8purple_block.pt是基于yolov8n训练后的模型，支持紫色物块识别，追踪
+物块为5*5*5cm
+识别物体如图yolo_learning\IMG_20261018_193430.jpg
